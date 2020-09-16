@@ -14,7 +14,7 @@ Reinforcement Learning based logistic system for SAMUR emergency vehicles deploy
 - [Borja Menéndez Moreno](https://www.linkedin.com/in/borjamenendezmoreno)
 
 # External links
-- Article in Medium (TBD)
+- [Medium article] (https://medium.com/p/a128cd052c22)
 
 # Acknowledgments
 - [Saturdays AI](https://www.saturdays.ai/) Madrid, for bringing us together. 
