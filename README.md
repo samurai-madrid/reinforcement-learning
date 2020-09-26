@@ -2,7 +2,7 @@
 Reinforcement Learning based logistic system for SAMUR emergency vehicles deployment.
 
 # Prerequisites
-- [Python 3.X:X](https://www.python.org/downloads/)
+- [Python 3.X.X](https://www.python.org/downloads/)
 
 # License
 [MIT 2020](License)
@@ -14,7 +14,7 @@ Reinforcement Learning based logistic system for SAMUR emergency vehicles deploy
 - [Borja Menéndez Moreno](https://www.linkedin.com/in/borjamenendezmoreno)
 
 # External links
-- [Medium article] (https://medium.com/p/a128cd052c22)
+- [Medium article] (https://medium.com/saturdays-ai/samur-ai-optimizaci%C3%B3n-del-uso-de-ambulancias-mediante-inteligencia-artificial-parte-i-fa4d82f5652)
 
 # Acknowledgments
 - [Saturdays AI](https://www.saturdays.ai/) Madrid, for bringing us together. 
